@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "師大附中暑期Python 程式營"
+excerpt: "阿柏教育在 2020/07舉辦的三日營隊，帶領師大附中數資班以及科學班的學生學習Python語法，並用BFS演算法實作了走迷宮的專案<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
