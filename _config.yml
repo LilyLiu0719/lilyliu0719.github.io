@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yin-Li Liu / Portfolio"
+title                    : "Yin-Li Liu"
 title_separator          : "-"
 name                     : &name "Yin-Li Liu"
 description              : &description "This is Lily Liu from Taiwan, I will share my my works of engineering in this website"
