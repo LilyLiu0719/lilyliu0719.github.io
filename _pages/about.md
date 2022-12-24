@@ -25,7 +25,7 @@ Skills
 * Other
   * 2D/3D CAD, 3D printing, Laser‐cutting, Arduino, Raspberry Pi, PCB, Photoshop, Illustrator, Premiere, Design thinking
 
-Work experience
+Experience
 ======
 * Data Scientist
   * BravoAI Co., Ltd.
@@ -48,7 +48,7 @@ Work experience
   * Online Judge System
     * Designed and deployed an online judge system for students to upload and auto‐rating their programming assignments (150+ registered users)
 
-Research Experience
+Research
 ======
 * Next‐generation Automated Surgical Apparatus Lab, NTU, Prof. Cheng‐Wei Chen
   * Undergraduate Researcher
@@ -56,7 +56,7 @@ Research Experience
   * PDA Closure Robotic Surgery System
     * Improved a minimally invasive surgical robotic system to perform Patent Ductus Arteriosus (PDA) surgery on premature neonates, which reduced the deviation to <1 mm
   
-Service and leadership
+Service and Leadership
 ======
 * NTU Creativity and Entrepreneurship Program Student Association
   * President
